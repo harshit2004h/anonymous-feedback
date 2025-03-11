@@ -1,7 +1,5 @@
 # True Voice  
 
-![True Voice](https://cdn4.vectorstock.com/i/500x500/76/23/anonymous-feedback-vector-45637623.jpg)  
-
 ## 🚀 Overview  
 
 **True Voice** is an anonymous feedback platform that empowers users to share honest opinions safely, fostering transparency and meaningful conversations.  
